@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KldgVCQOP2ZUHYOaqm++BIIaaVT5x7sUbQIB4Lu3k28=",
+  "Source": "IPManagementSystem.API",
+  "BasePath": "_content/IPManagementSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

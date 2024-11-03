@@ -1,0 +1,12 @@
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\obj\Debug\net8.0\IPManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\obj\Debug\net8.0\IPManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\obj\Debug\net8.0\IPManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\obj\Debug\net8.0\IPManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\obj\Debug\net8.0\IPManagementSystem.Domain.sourcelink.json
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\bin\Debug\net8.0\IPManagementSystem.Domain.deps.json
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\bin\Debug\net8.0\IPManagementSystem.Domain.dll
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\bin\Debug\net8.0\IPManagementSystem.Domain.pdb
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\obj\Debug\net8.0\IPManagementSystem.Domain.dll
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\obj\Debug\net8.0\refint\IPManagementSystem.Domain.dll
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\obj\Debug\net8.0\IPManagementSystem.Domain.pdb
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Domain\obj\Debug\net8.0\ref\IPManagementSystem.Domain.dll

@@ -1,0 +1,16 @@
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\obj\Debug\net8.0\IPManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\obj\Debug\net8.0\IPManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\obj\Debug\net8.0\IPManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\obj\Debug\net8.0\IPManagementSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\obj\Debug\net8.0\IPManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\obj\Debug\net8.0\IPManagementSystem.Infrastructure.sourcelink.json
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\bin\Debug\net8.0\IPManagementSystem.Infrastructure.deps.json
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\bin\Debug\net8.0\IPManagementSystem.Infrastructure.dll
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\bin\Debug\net8.0\IPManagementSystem.Infrastructure.pdb
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\bin\Debug\net8.0\IPManagementSystem.Domain.dll
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\bin\Debug\net8.0\IPManagementSystem.Domain.pdb
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\obj\Debug\net8.0\IPManage.04BE79CA.Up2Date
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\obj\Debug\net8.0\IPManagementSystem.Infrastructure.dll
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\obj\Debug\net8.0\refint\IPManagementSystem.Infrastructure.dll
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\obj\Debug\net8.0\IPManagementSystem.Infrastructure.pdb
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.Infrastructure\obj\Debug\net8.0\ref\IPManagementSystem.Infrastructure.dll

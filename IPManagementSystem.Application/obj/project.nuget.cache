@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yLaiRYLSvNw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\petol\\Documents\\GitHub\\IPManagementSystem\\IPManagementSystem.Application\\IPManagementSystem.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petol\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
