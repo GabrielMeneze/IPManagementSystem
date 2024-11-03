@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petol\\Documents\\GitHub\\IPManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1EE03E-C8D4-47C4-B030-6AB99572BF20}|IPManagementSystem.Application\\IPManagementSystem.Application.csproj|c:\\users\\petol\\documents\\github\\ipmanagementsystem\\ipmanagementsystem.application\\services\\ipaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1EE03E-C8D4-47C4-B030-6AB99572BF20}|IPManagementSystem.Application\\IPManagementSystem.Application.csproj|solutionrelative:ipmanagementsystem.application\\services\\ipaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511FE6FA-166E-40D7-8510-AC2F0CF9B16A}|IPManagementSystem.API\\IPManagementSystem.API.csproj|c:\\users\\petol\\documents\\github\\ipmanagementsystem\\ipmanagementsystem.api\\controllers\\ipaddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511FE6FA-166E-40D7-8510-AC2F0CF9B16A}|IPManagementSystem.API\\IPManagementSystem.API.csproj|solutionrelative:ipmanagementsystem.api\\controllers\\ipaddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA924BC2-F6ED-434D-B911-1FE7F502C493}|IPManagementSystem.Infrastructure\\IPManagementSystem.Infrastructure.csproj|c:\\users\\petol\\documents\\github\\ipmanagementsystem\\ipmanagementsystem.infrastructure\\repositories\\ipaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA924BC2-F6ED-434D-B911-1FE7F502C493}|IPManagementSystem.Infrastructure\\IPManagementSystem.Infrastructure.csproj|solutionrelative:ipmanagementsystem.infrastructure\\repositories\\ipaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 194,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPAddressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\petol\\Documents\\GitHub\\IPManagementSystem\\IPManagementSystem.Infrastructure\\Repositories\\IPAddressRepository.cs",
+              "RelativeDocumentMoniker": "IPManagementSystem.Infrastructure\\Repositories\\IPAddressRepository.cs",
+              "ToolTip": "C:\\Users\\petol\\Documents\\GitHub\\IPManagementSystem\\IPManagementSystem.Infrastructure\\Repositories\\IPAddressRepository.cs",
+              "RelativeToolTip": "IPManagementSystem.Infrastructure\\Repositories\\IPAddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:00:39.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPAddressService.cs",
+              "DocumentMoniker": "C:\\Users\\petol\\Documents\\GitHub\\IPManagementSystem\\IPManagementSystem.Application\\services\\IPAddressService.cs",
+              "RelativeDocumentMoniker": "IPManagementSystem.Application\\services\\IPAddressService.cs",
+              "ToolTip": "C:\\Users\\petol\\Documents\\GitHub\\IPManagementSystem\\IPManagementSystem.Application\\services\\IPAddressService.cs",
+              "RelativeToolTip": "IPManagementSystem.Application\\services\\IPAddressService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:00:28.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPAddressController.cs",
+              "DocumentMoniker": "C:\\Users\\petol\\Documents\\GitHub\\IPManagementSystem\\IPManagementSystem.API\\Controllers\\IPAddressController.cs",
+              "RelativeDocumentMoniker": "IPManagementSystem.API\\Controllers\\IPAddressController.cs",
+              "ToolTip": "C:\\Users\\petol\\Documents\\GitHub\\IPManagementSystem\\IPManagementSystem.API\\Controllers\\IPAddressController.cs",
+              "RelativeToolTip": "IPManagementSystem.API\\Controllers\\IPAddressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:59:35.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
