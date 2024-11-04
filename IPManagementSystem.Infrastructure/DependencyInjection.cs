@@ -16,7 +16,7 @@ namespace IPManagementSystem.Infrastructure
 
             services.AddStackExchangeRedisCache(options =>
             {
-                options.Configuration = configuration.GetSection("RedisSettings:ConnectionString").Value;
+                options.Configuration = configuration["RedisSettings:ConnectionString"];
                 options.InstanceName = "IPManagementSystem_";
             });
 

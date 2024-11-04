@@ -83,3 +83,7 @@ C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.API\obj\De
 C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.API\obj\Debug\net8.0\IPManagementSystem.API.pdb
 C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.API\obj\Debug\net8.0\IPManagementSystem.API.genruntimeconfig.cache
 C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.API\obj\Debug\net8.0\ref\IPManagementSystem.API.dll
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.API\obj\Debug\net8.0\IPManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\petol\Documents\GitHub\IPManagementSystem\IPManagementSystem.API\bin\Debug\net8.0\Microsoft.Extensions.Http.dll

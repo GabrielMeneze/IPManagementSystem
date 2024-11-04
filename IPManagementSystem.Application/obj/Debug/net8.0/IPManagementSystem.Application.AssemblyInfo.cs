@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IPManagementSystem.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1c030f68043e8a9536f4ef6833f67fdb9a4eabe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c8e8b64905bcb089492ec55d2170dbc2725a337")]
 [assembly: System.Reflection.AssemblyProductAttribute("IPManagementSystem.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IPManagementSystem.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

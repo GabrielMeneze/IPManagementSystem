@@ -1,6 +1,4 @@
-﻿// IPManagementSystem.Application/DependencyInjection.cs
-using IPManagementSystem.Application.services;
-using IPManagementSystem.Domain.Interfaces.service;
+﻿using IPManagementSystem.Domain.Interfaces.service;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace IPManagementSystem.Application

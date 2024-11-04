@@ -14,5 +14,6 @@ namespace IPManagementSystem.Domain.Interfaces.repository
         Task SaveIPAddressAsync(IpAddressEntity ipEntity);
         Task UpdateIPAddressAsync(IpAddressEntity ipEntity);
         Task<IEnumerable<CountryReport>> GetIPReportAsync(IEnumerable<string> countryCodes = null);
+        Task<IEnumerable<IpAddressEntity>> GetAllIPAddressesAsync();
     }
 }

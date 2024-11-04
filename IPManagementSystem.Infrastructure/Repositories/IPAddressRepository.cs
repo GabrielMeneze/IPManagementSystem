@@ -37,10 +37,23 @@ namespace IPManagementSystem.Infrastructure.Repositories
             await _context.SaveChangesAsync();
         }
 
+        public async Task<IEnumerable<IpAddressEntity>> GetAllIPAddressesAsync()
+        {
+            return await _context.IPAddresses.ToListAsync();
+        }
+
         public async Task<IEnumerable<CountryReport>> GetIPReportAsync(IEnumerable<string> countryCodes = null)
         {
-            // Implemente a consulta bruta aqui para o relatório
-            return new List<CountryReport>();
+            var sqlQuery = @"
+            SELECT c.Name AS CountryName, COUNT(ip.Id) AS AddressesCount, MAX(ip.UpdatedAt) AS LastAddressUpdated
+            FROM Countries c
+            INNER JOIN IPAddresses ip ON c.Id = ip.CountryId
+            WHERE (@CountryCodes IS NULL OR c.TwoLetterCode IN (@CountryCodes))
+            GROUP BY c.Name";
+
+            var countryCodesParameter = countryCodes != null ? string.Join(",", countryCodes) : null;
+
+            return await _context.Set<CountryReport>().FromSqlRaw(sqlQuery, countryCodesParameter).ToListAsync();
         }
     }
 }
